@@ -46,3 +46,5 @@ function AssignmentRoutes(app) {
     });
 
 }
+
+export default AssignmentRoutes;
