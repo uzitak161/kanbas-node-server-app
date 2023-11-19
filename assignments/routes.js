@@ -1,4 +1,4 @@
-import Database from "../Database";
+import Database from "../Database/index.js";
 
 function AssignmentRoutes(app) {
 
@@ -46,3 +46,5 @@ function AssignmentRoutes(app) {
     });
 
 }
+
+export default AssignmentRoutes;
